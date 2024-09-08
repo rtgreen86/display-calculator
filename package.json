@@ -4,5 +4,6 @@
   "authors": "Pavlo Malokhatko",
   "version": "1.0.0",
   "main": "./index.js",
-  "private": true
+  "private": true,
+  "license": "BSD-2-Clause"
 }

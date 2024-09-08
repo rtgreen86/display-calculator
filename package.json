@@ -1,0 +1,8 @@
+{
+  "name": "display-calculator",
+  "description": "Calculate recomended display display",
+  "authors": "Pavlo Malokhatko",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "private": true
+}
